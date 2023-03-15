@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CCWeights"]
+	path = CCWeights
+	url = https://github.com/yonghuidong/ccweights
+	shallow = true
+	registered = true
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/yonghuidong/msbox
+	shallow = true
+	registered = true
+[submodule "RawHummus"]
+	path = RawHummus
+	url = https://github.com/yonghuidong/rawhummus
 	shallow = true
 	registered = true
